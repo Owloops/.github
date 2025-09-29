@@ -1,27 +1,8 @@
-```
- o
-...      ..............   ....
-...o. .....................
- ...........................
-   .........ooooooo....ooooo.
-  ........oooo     .oo.     o
- ........ooo
- .......ooo     oo        o
-........oo    oooooo     o
- .......o.    oooooo
- .......oo    oooo      ooo
-  .......o.    ooo     o..o
-   .......o              .
-     .......o
-       ................
-           .........
-```
-
 <div align="center">
 
-**Owloops**
+<h3>🦉 Owloops</h3>
 
-**CLI tools that work**
+<p><strong>CLI tools that work</strong></p>
 
 [GitHub](https://github.com/owloops) • [Discord](https://discord.gg/aFrPHspzzs) • [YouTube](https://www.youtube.com/@owloops)
 
