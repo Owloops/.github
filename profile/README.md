@@ -43,28 +43,23 @@ AWS CDK orchestrator. Deploy stacks across multiple accounts and regions with pa
 
 </td>
 </tr>
-</table>
-
-## Archived
-
-<table>
 <tr>
 <td width="50%">
 
-**[flybird](https://github.com/owloops/flybird)**
+**[flybird](https://github.com/owloops/flybird)** `archived` `2024`
 
 Replay browser tests exported from Chrome DevTools Recordings.
 
-*Archived 2024 - LLMs made test generation more efficient than recordings*
+*LLMs made test generation more efficient than recordings*
 
 </td>
 <td width="50%">
 
-**[chrome-recorder](https://github.com/owloops/owloops-chrome-recorder)**
+**[chrome-recorder](https://github.com/owloops/owloops-chrome-recorder)** `archived` `2024`
 
 Export Chrome DevTools recordings to Owloops test format.
 
-*Archived 2024 - AI-powered test writing superseded recording workflows*
+*AI-powered test writing superseded recording workflows*
 
 </td>
 </tr>
