@@ -9,54 +9,12 @@
 
 </div>
 
-## Projects
+## About
 
-<table>
-<tr>
-<td width="50%">
+Owloops is a collection of command-line tools built for developers and DevOps engineers who spend most of their time in the terminal.
 
-**[updo](https://github.com/Owloops/updo)**
+Each tool focuses on solving one problem well. We avoid feature creep and keep interfaces simple. If a tool needs a manual to use, something went wrong.
 
-Website monitoring with real-time alerts across 13 AWS regions. Integrates with Prometheus/Grafana and supports webhook notifications.
+The tools here are ones we use daily in our own workflows. They exist because existing solutions were either too complex, abandoned, or missing features we needed.
 
-</td>
-<td width="50%">
-
-**[claude-powerline](https://github.com/Owloops/claude-powerline)**
-
-Statusline for Claude Code. Tracks usage costs, tokens, git status, and session metrics in real-time.
-
-</td>
-</tr>
-<tr>
-
-<td width="50%">
-
-**[cdko](https://github.com/Owloops/cdko)**
-
-AWS CDK orchestrator. Deploy stacks across multiple accounts and regions with pattern matching and parallel execution.
-
-</td>
-<td width="50%">
-
-**[chrome-recorder](https://github.com/owloops/owloops-chrome-recorder)** `archived` `2024`
-
-Export Chrome DevTools recordings to Owloops test format.
-
-*AI-powered test writing superseded recording workflows*
-
-</td>
-
-</tr>
-<tr>
-<td width="50%">
-
-**[flybird](https://github.com/owloops/flybird)** `archived` `2024`
-
-Replay browser tests exported from Chrome DevTools Recordings.
-
-*LLMs made test generation more efficient than recordings*
-
-</td>
-</tr>
-</table>
+All projects are open source and actively maintained.
